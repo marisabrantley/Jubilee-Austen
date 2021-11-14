@@ -13,7 +13,7 @@ obtaining a domain, and ultimately launching the website.
 
 ## Launch
 
-View the Jubilee Austen Project here: 
+View the Jubilee Austen Project here: www.codegoddess.marisabrantley.com/
 
 ## Class
 *Skillcrush, Break into Tech Blueprint*
